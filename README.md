@@ -12,6 +12,7 @@ or download as you need.
 
 - Aqua from [reddit](https://www.reddit.com/r/unixporn/comments/12ebghy/hyprland_decided_to_make_a_wallpaper_that_fits_my/)
 - Bridge from [catppuccin/wallpapers](#) (dead repo)
+- BeachAndGirl from [Pixiv/焦茶](https://www.pixiv.net/en/artworks/71295163)
 - CatLeaves from [rxyhn/???](https://github.com/rxyhn) (forgot which repo and which commit)
 - CherryBlossom from [andreasgrafen/wallpapers](https://github.com/andreasgrafen/wallpapers/blob/main/catppuccin/cherry_blossom.png)
 - Earth from [Discord/Catppuccin/wallpapers](https://discord.com/channels/907385605422448742/1103371772021194782/1103371772021194782)
